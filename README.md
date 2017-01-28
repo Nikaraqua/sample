@@ -16,3 +16,5 @@ I know you can (As I have by accident when committing message)
 * And I have Notepad as text editor
 
 So I'm moving on now
+
+adding this to the repo now
